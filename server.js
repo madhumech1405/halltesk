@@ -17,7 +17,7 @@ let rooms = [
     BookingStatus : "Occupied",
     customerDetails : {
       customerName : "Thalapathy",
-      date : "2022-10-05",
+      date : "2023-11-01",
       start : "16:00",
       end : "21:00",
       roomId : "001",
@@ -68,7 +68,7 @@ let rooms = [
     BookingStatus : "Occupied",
     customerDetails : {
       customerName : "Thala",
-      date : "2022-10-06",
+      date : "2023-12-06",
       start : "16:00",
       end : "21:00",
       roomId : "004",
