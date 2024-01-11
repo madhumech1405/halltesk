@@ -1,0 +1,23 @@
+{
+  "name": "halltesk",
+  "version": "1.0.0",
+  "description": "\"hall booking\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhumech1405/halltesk.git"
+  },
+  "author": "madhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhumech1405/halltesk/issues"
+  },
+  "homepage": "https://github.com/madhumech1405/halltesk#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
